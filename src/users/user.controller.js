@@ -5,6 +5,7 @@ class UserController {
     this.User = new User();
   }
 
+  findOne = async
 
 }
 
